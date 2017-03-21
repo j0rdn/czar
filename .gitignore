@@ -3,7 +3,7 @@
 
 ### Autotools ###
 # http://www.gnu.org/software/automake
-
+autotools/*
 Makefile.in
 /ar-lib
 /mdate-sh
